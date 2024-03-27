@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\clientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\clientapplicationtest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\clientapplicationtest1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7DA52E47-BCCD-46CA-9A8A-F15893BCE66A}|docker-compose.dcproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|c:\\users\\laura\\source\\repos\\clientapplicationtest1\\clientapplicationtest1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B477EEC-8EB8-4C5E-A978-AA5761187351}|ClientApplicationTest1\\ClientApplicationTest1.csproj|solutionrelative:clientapplicationtest1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClientApplicationTest1\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:32:48.403Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Models\\Client.cs",
+              "RelativeToolTip": "ClientApplicationTest1\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:15:58.923Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-03-04T09:27:00.377Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Program.cs",
+              "RelativeToolTip": "ClientApplicationTest1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:19:40.54Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-12T22:46:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-04T09:26:59.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\ClientDbContext.cs",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\ClientDbContext.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\ClientDbContext.cs",
+              "RelativeToolTip": "ClientApplicationTest1\\ClientDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T22:23:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T10:46:19.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\appsettings.json",
+              "RelativeToolTip": "ClientApplicationTest1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T08:57:13.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\appsettings.Development.json",
+              "RelativeToolTip": "ClientApplicationTest1\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T17:22:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientApplicationTest1.csproj",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\ClientApplicationTest1.csproj",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\ClientApplicationTest1.csproj",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\ClientApplicationTest1.csproj",
+              "RelativeToolTip": "ClientApplicationTest1\\ClientApplicationTest1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T18:21:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-12T22:34:17.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AQIAALsAAAAAAAAAAAAAANAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-04T10:36:33.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClientApplicationTest1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:00:20.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClientApplicationTest1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\ClientApplicationTest1\\ClientApplicationTest1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClientApplicationTest1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T08:58:13.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

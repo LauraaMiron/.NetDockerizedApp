@@ -1,0 +1,40 @@
+version: '3.4'
+
+
+
+services:
+  database:
+    image: 'postgres:latest'
+    environment:
+      POSTGRES_USER: laura
+      POSTGRES_PASSWORD: laura
+      POSTGRES_DB: default_database
+    ports:
+      - 5432:5432
+
+  clientapplicationtest1:
+    container_name: client-api
+    environment:
+        DB_HOST: database
+        DB_NAME: cliendb
+        POSTGRES_PASSWORD: laura
+        ASPNETCORE_ENVIRONMENT: Development
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8002:8080
+
+
+
+
+  pgadmin:
+    container_name : pgadmin4_conatiner
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: root
+    ports:
+      - 5050:80
+        
+    

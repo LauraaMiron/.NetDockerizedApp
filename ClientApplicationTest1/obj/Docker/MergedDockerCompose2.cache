@@ -1,0 +1,57 @@
+name: dockercompose11237041046447351703
+services:
+  clientapplicationtest1:
+    build:
+      context: C:\Users\Laura\source\repos\ClientApplicationTest1
+      dockerfile: ClientApplicationTest1\Dockerfile
+    container_name: client-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      DB_HOST: clientdb
+      DB_NAME: client
+      DB_SA_PASSWORD: password
+    image: clientapplicationtest1
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8002"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Laura\AppData\Roaming/Microsoft/UserSecrets
+        target: C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Laura\AppData\Roaming/ASP.NET/Https
+        target: C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https
+        read_only: true
+        bind:
+          create_host_path: true
+  clientdb:
+    container_name: client-db
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: password
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      backend: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "8001"
+        protocol: tcp
+networks:
+  backend:
+    name: dockercompose11237041046447351703_backend

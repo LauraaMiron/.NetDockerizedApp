@@ -1,0 +1,17 @@
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.deps.json
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.runtimeconfig.json
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\appsettings.Development.json
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\appsettings.json
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.staticwebassets.runtime.json
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.exe
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Laura\source\repos\ClientApplicationTest1\bin\Debug\ClientApplicationTest1.pdb
+C:\Users\Laura\source\repos\ClientApplicationTest1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\ClientApplicationTest1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\ClientApplicationTest1\obj\Debug\docker-c.35A3FFBA.Up2Date
